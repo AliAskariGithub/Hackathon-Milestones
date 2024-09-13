@@ -113,6 +113,11 @@ body.scale-cv {
   margin-bottom: .5rem;
 }
 
+.scale-cv .resume__left{
+  height: 1250px;
+  margin-bottom: -160px;
+ }
+
 .scale-cv .resume__left,
 .scale-cv .resume__right {
   padding: 0 9% 1rem 1rem;
