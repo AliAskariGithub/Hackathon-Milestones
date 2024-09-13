@@ -106,7 +106,7 @@ body.scale-cv {
 }
 
 .scale-cv .section {
-  padding: 1.5rem 0 .80rem;
+  padding: 1rem 0 .80rem;
 }
 
 .scale-cv .section-title {
@@ -176,8 +176,8 @@ body.scale-cv {
   margin-bottom: -45px;
 }
 
-.scale-cv .languages__content {
-  margin-bottom: -25px;
+.scale-cv .interests__content {
+  margin-bottom: -10px;
 }
 
 .scale-cv .interests__container {
