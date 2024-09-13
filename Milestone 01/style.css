@@ -110,12 +110,11 @@ body.scale-cv {
 }
 
 .scale-cv .section-title {
-  margin-bottom: .5rem;
+  margin-bottom: 1.125rem;
 }
 
-.scale-cv .resume__left{
-  height: 1250px;
-  margin-bottom: -200px;
+.scale-cv .resume__right{
+  margin-bottom: -25px;
  }
 
 .scale-cv .resume__left,
