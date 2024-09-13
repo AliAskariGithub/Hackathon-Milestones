@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/scrollreveal": "^0.0.11"
+  }
+}
