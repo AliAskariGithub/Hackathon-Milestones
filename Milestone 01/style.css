@@ -172,8 +172,12 @@ body.scale-cv {
   gap: .25rem;
 }
 
-.scale-cv .skills__name {
-  margin-bottom: var(--mb-1);
+.scale-cv .skills__content {
+  margin-bottom: -45px;
+}
+
+.scale-cv .languages__content {
+  margin-bottom: -25px;
 }
 
 .scale-cv .interests__container {
