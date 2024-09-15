@@ -32,7 +32,7 @@ form.addEventListener('submit', (event) => {
     `;
 
     // Generate a unique shareable URL (this is just a placeholder, you would need backend logic for real URLs)
-    const uniqueURL = `https://${username}.vercel.app/resume`;
+    const uniqueURL = `https://${username}.hackathon-milestone-05-lovat.vercel.app/;`
     shareableLink.href = uniqueURL;
     shareableLink.textContent = uniqueURL;
 });
