@@ -17,7 +17,7 @@ form.addEventListener('submit', function (event) {
     // Display the resume in the editable area
     resumeDisplay.innerHTML = "\n        <h2>".concat(name, "'s Resume</h2>\n        <p><strong>Username: </strong> ").concat(username, "</p>\n        <p><strong>Email: </strong> ").concat(email, "</p>\n        <p><strong>Phone: </strong> ").concat(phone, "</p>\n        <h3>Education</h3>\n        <p>").concat(education, "</p>\n        <h3>Experience</h3>\n        <p>").concat(experience, "</p>\n        <h3>Skills</h3>\n        <p>").concat(skills, "</p>\n    ");
     // Generate a unique shareable URL (this is just a placeholder, you would need backend logic for real URLs)
-    var uniqueURL = "https://".concat(username, hackathon-milestone-05-lovat.vercel.app/);
+    var uniqueURL = "https://".concat(username, ".vercel.app/resume");
     shareableLink.href = uniqueURL;
     shareableLink.textContent = uniqueURL;
 });
